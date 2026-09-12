@@ -1,0 +1,12 @@
+{
+  "name": "Viking Relevamiento [DEV]",
+  "short_name": "VSS Relev DEV",
+  "start_url": "/viking-relevamiento-dev/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7B4F00",
+  "icons": [
+    {"src": "icon-192x192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512x512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
